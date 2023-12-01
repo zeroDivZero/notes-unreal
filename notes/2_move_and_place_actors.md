@@ -12,7 +12,7 @@ Use add button in toolbar:
 
 ![Add Actor](/assets/UnrealEditor/UnrealEditor-AddActor.png)
 
-Can copy&paste existing actor as well. Or hold down **OPTION (Mac) / ALT (Windows)** when dragging to duplicate.
+Can copy&paste existing actor as well. Or hold down **Option (Mac) / Alt (Windows)** when dragging to duplicate.
 
 ## Move Actor
 
