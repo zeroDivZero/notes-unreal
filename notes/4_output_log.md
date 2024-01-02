@@ -12,7 +12,7 @@ To find location of log on disk:
 
 In project folder, go to `Saved/Logs`.
 
-### Mac
+### macOS
 
 Open **Console** app. Click **Log Reports** on left. Search for app/game name. Should see file `<game name>.log`. Right-click to **Reveal in Finder**.
 
