@@ -30,11 +30,11 @@ Both input and output pins also called **Execution Pins**.
 
 ### Data Pin
 
-Input or output data for node.
+Input or output data for node. Such as **Return Value** pin.
 
 ## Connection
 
-Wire connecting pins.
+Wire connecting pins. **Option+Click** either pin to disconnect.
 
 ### Example
 
@@ -61,3 +61,7 @@ In level view, select actor. Then in Event Graph, right click and select **Creat
 Can then get component from that reference and query its values.
 
 ![Reference example](/assets/Blueprint/blueprint-reference.png)
+
+## Spawning
+
+Create object while playing.
