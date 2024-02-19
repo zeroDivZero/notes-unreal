@@ -34,7 +34,7 @@ Input or output data for node. Such as **Return Value** pin.
 
 ## Connection
 
-Wire connecting pins. **Option+Click** either pin to disconnect.
+Wire connecting pins. **⌥ + Click** either pin to disconnect.
 
 ### Example
 
