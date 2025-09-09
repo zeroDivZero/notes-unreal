@@ -18,27 +18,27 @@ Node socket that can be connected.
 
 Can drag pin to empty space to create node.
 
-### Input Pin
+    ### Input Pin
 
-When to run this node.
+    When to run this node.
 
-### Output Pin
+    ### Output Pin
 
-What to run after.
+    What to run after.
 
-Both input and output pins also called **Execution Pins**.
+    Both input and output pins also called **Execution Pins**.
 
-### Data Pin
+    ### Data Pin
 
-Input or output data for node. Such as **Return Value** pin.
+    Input or output data for node. Such as **Return Value** pin.
 
 ## Connection
 
 Wire connecting pins. **⌥ + Click** either pin to disconnect.
 
-### Example
+    ### Example
 
-![Blueprint example](/assets/Blueprint/blueprint-example.png)
+    ![Blueprint example](/assets/Blueprint/blueprint-example.png)
 
 ## Object
 

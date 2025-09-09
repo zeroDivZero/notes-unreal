@@ -14,7 +14,7 @@ Visual programming language specific for Unreal Editor. Main advantages:
 
 General text-based programming language. Main advantages:
 
-* more concise
+* More concise
 * Industry standard
 * Performant
 * Access to more capabilities
